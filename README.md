@@ -23,8 +23,8 @@ python -m pip install .
 ### Arch Linux
 
 ```bash
-git clone https://github.com/asukate/ascii-player
-cd ascii-player
+git clone https://github.com/KleirRampage45/term-cinema
+cd term-cinema
 makepkg -si
 ```
 
